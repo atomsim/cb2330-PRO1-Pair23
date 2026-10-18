@@ -10,3 +10,5 @@ The data is arranged such that lineages are the columns and cell division are th
 Lineage F has missing data due to sequencing failure and was excluded from our analysis.
 
 Genome size per lineage was also taken from supplementary material and is hardcoded as a list in the notebook. 
+
+The image used in the notebook also come from the paper and has been credited.

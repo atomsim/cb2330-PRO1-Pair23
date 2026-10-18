@@ -14,11 +14,11 @@ Kennedy, S. R., Schultz, E. M., Chappell, T. M., Kohrn, B., Knowels, G. M., & He
 
 Summary statistics show that mean is 2.74 and variance is 5.72, indicating that the data is overdispersed. No mutations observed in 20 divisions.
 
-We have performeds forwards simulation, backwards estimate of parameters and calculated parameter uncertainty for both the models and compared them using AIC.
+We have performed forwards simulation, backwards estimate of parameters and calculated parameter uncertainty for both the models and compared them using AIC.
 
 ## How to run...
 
-The project can be run as Jupyter Notebook using a Python kernal with the following packages:
+The project can be run as a Jupyter Notebook using a Python kernal with the following packages:
 
 numpy
 matplotlib
