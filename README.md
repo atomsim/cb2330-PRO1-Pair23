@@ -24,6 +24,7 @@ numpy
 matplotlib
 openpyxl
 jupyter
+pandas
 
 ## Contents...
 

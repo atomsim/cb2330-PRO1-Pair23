@@ -7,8 +7,8 @@ All numbers come from the supplementary material of Kennedy et al. 2015
 
 The data is arranged such that lineages are the columns and cell division are the rows.
 
-Lineage F has missing data due to sequencing failure and was excluded from our analysis.
+Lineage F has missing data due to sequencing failure and two of its cell divsion counts were excluded from our analysis.
 
 Genome size per lineage was also taken from supplementary material and is hardcoded as a list in the notebook. 
 
-The image used in the notebook also come from the paper and has been credited.
+The image used in the notebook also come from the paper.
